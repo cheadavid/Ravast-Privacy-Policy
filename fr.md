@@ -30,4 +30,5 @@ Nous pouvons modifier cette politique de confidentialité à tout moment. Les mo
 ---
 
 **Dernière mise à jour :** 3 mai 2025
+
 **Pour toute question :** hello@ravast.app
