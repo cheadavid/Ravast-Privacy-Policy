@@ -29,5 +29,6 @@ We may modify this privacy policy at any time. The modifications take effect as 
 
 ---
 
-**Last updated:** May 3, 2025  
+**Last updated:** May 3, 2025
+
 **For any questions:** hello@ravast.app
